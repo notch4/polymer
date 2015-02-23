@@ -21,7 +21,7 @@
 </head>
 
 <body unresolved fullbleed>
-hjhjhjhjhj
+This is an awesome text.
 
 <template is="auto-binding">
 	  <core-scaffold id="scaffold">
