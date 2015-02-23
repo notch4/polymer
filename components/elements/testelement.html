@@ -1,0 +1,17 @@
+
+	<link rel="import" href="bower_components/polymer/polymer.html">
+	<link rel="import" href="bower_components/core-ajax/core-ajax.html">
+
+	<polymer-element name="my-element">
+	  <template>
+	    This is <b>{{owner}}</b>'s fav-color element. 
+	    {{owner}} likes the color 
+	    <span style="color: {{color}}">{{color}}</span>.
+	  </template>
+	  <script>
+	    Polymer({
+	      owner: "Daniel",
+	      color: "red"
+	    });
+	  </script>
+	</polymer-element>
