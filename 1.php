@@ -6,7 +6,6 @@
 	<script src="components/bower_components/platform/platform.js"></script>
 
 	<link rel="import" href="components/bower_components/font-roboto/roboto.html">
-
 	<link rel="import" href="components/bower_components/core-scaffold/core-scaffold.html"> 
 	<link rel="import" href="components/bower_components/core-item/core-item.html">
 	<link rel="import" href="components/bower_components/core-icons/core-icons.html"> 
@@ -14,15 +13,12 @@
 	<link rel="import" href="components/bower_components/core-tooltip/core-tooltip.html"> 
 	<link rel="import" href="components/core-animated-pages/core-animated-pages.html">
 	<link rel="import" href="components/core-animated-pages/transitions/slide-from-right.html">
-	
 
 	<link href="design.css" rel="stylesheet">
   	
 </head>
 
 <body unresolved fullbleed>
-This is an awesome text.
-
 <template is="auto-binding">
 	  <core-scaffold id="scaffold">
 	    <nav>
