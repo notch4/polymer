@@ -13,7 +13,7 @@
 	<link rel="import" href="components/bower_components/core-tooltip/core-tooltip.html"> 
 	<link rel="import" href="components/core-animated-pages/core-animated-pages.html">
 	<link rel="import" href="components/core-animated-pages/transitions/slide-from-right.html">
-
+	<!-- style files -->
 	<link href="design.css" rel="stylesheet">
   	
 </head>
